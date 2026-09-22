@@ -13,8 +13,8 @@ int main()
     cout << "Enter your student ID: ";
     cin >> studentId;
 
-    cout << "Hello " << name << " " << "your student ID is " << studentId << ".";
-
+    cout << "Student ID is: " << studentId << endl;
+    cout << "Name is: " << name << endl;
 
     return 0;
 }
